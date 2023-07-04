@@ -1,0 +1,15 @@
+body{
+    background-image: url("joy.jpg") no-repeat;
+    background-size:50% 50%;
+}
+
+
+.bok{
+    background-color: #15da35;
+    width: 400px;
+    height: 500px;
+    margin: auto;
+    margin-bottom: 150px;
+    margin-top: 100px;
+    
+}
